@@ -1,6 +1,6 @@
 ## Hello and welcome to my portfolio websites source code.
 
-## If you want to view my website head to: addisonhill.us
+## View my website: [Addison Hill's Portfolio Website](http://addisonhill.us)
 
 ## If you want to run my project locally, you can clone and run the following commands below.
 
