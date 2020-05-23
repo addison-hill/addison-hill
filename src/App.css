@@ -1,3 +1,28 @@
 body {
-  background: pink;
+  color: #3f51b5;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+}
+
+.app {
+  display: flex;
+}
+
+.top-about {
+  color: #3f51b5;
+  font-family: "Roboto", sans-serif;
+}
+
+.links {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.links a {
+  color: #d90429;
+  text-decoration: none;
+}
+
+.bold {
+  color: #d90429;
 }
